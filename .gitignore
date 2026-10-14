@@ -1,0 +1,15 @@
+﻿# Secrets and keys
+*.pem
+*.key
+*.pfx
+.env
+*.tfvars
+# Terraform state and cache
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+# OS junk
+Thumbs.db
+desktop.ini
+Current.md
